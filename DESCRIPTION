@@ -1,0 +1,12 @@
+Package: DNArepeats
+Type: Package
+Title: DNA Repeats
+Version: 0.1.1
+Author: Gianluca Damaggio
+Maintainer: Gianluca Damaggio <damaggiogianluca@gmail.com>
+Description: Instability & Expansion Index from sized DNA repeats;
+              Instability_index() consider the starting repeat-size of day0 to calculate the index
+License: 
+Encoding: UTF-8
+LazyData: true
+Imports: tidyverse

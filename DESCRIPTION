@@ -5,7 +5,7 @@ Version: 0.1.1
 Author: Gianluca Damaggio
 Maintainer: Gianluca Damaggio <damaggiogianluca@gmail.com>
 Description: Instability & Expansion Index from sized DNA repeats;
-              Instability_index() consider the starting repeat-size of day0 to calculate the index
+              R package for calculating instability/expansion index from DNA repeated region already sized. Works on time-series
 License: 
 Encoding: UTF-8
 LazyData: true

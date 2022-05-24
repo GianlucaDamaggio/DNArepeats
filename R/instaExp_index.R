@@ -1,6 +1,6 @@
 #' @title DNArepeats
 #'
-#' @description Instability & Expansion Index from sized DNA repeats; This package is created to analyse the instability in DNA repeated region. Works on time-series.
+#' @description Instability & Expansion Index from sized DNA repeats; R package for calculating instability/expansion index from DNA repeated region already sized. Works on time-series.
 #'
 #
 #' @param dataframe, threshold
